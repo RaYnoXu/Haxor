@@ -1,0 +1,980 @@
+Thaxor
+v7
+r0
+t400846456.918164
+cCheck dependencies
+cProcessInfoPlistFile /Users/Jurgis/haxor/build/Debug/haxor.app/Contents/Info.plist Info.plist
+cCopyStringsFile /Users/Jurgis/haxor/build/Debug/haxor.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cProcessPCH /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-epydxwtpopmqrrhbtovhnokcmvmf/haxor_Prefix.pch.gch haxor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-gkcrjdweqjuhaubzejmfipkumcuv/haxor_Prefix.pch.gch haxor_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+cProcessPCH /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-gqmadlzhnlxqfbatapmipcfafbhx/haxor_Prefix.pch.gch haxor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+cProcessPCH /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-aqrcswfheulrzrcrmmocbuqmgtmj/haxor_Prefix.pch.gch haxor_Prefix.pch normal i386 c com.apple.compilers.gcc.4_0
+cCompileC build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/SDLMain.o /Users/Jurgis/haxor/SDLMain.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/main.o /Users/Jurgis/haxor/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+cCompileC build/haxor.build/Debug/haxor.build/Objects-normal/i386/SDLMain.o /Users/Jurgis/haxor/SDLMain.m normal i386 objective-c com.apple.compilers.gcc.4_0
+cLd /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor normal x86_64
+cCompileC build/haxor.build/Debug/haxor.build/Objects-normal/i386/main.o /Users/Jurgis/haxor/main.c normal i386 c com.apple.compilers.gcc.4_0
+cLd /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor normal i386
+cCreateUniversalBinary /Users/Jurgis/haxor/build/Debug/haxor.app/Contents/MacOS/haxor normal "x86_64 i386"
+cPBXCp build/Debug/haxor.app/Contents/Frameworks/SDL.framework /Library/Frameworks/SDL.framework
+cTouch /Users/Jurgis/haxor/build/Debug/haxor.app
+
+N/Developer/SDKs/MacOSX10.4u.sdk
+c000000004A1199E200000000000000EE
+t1242667490
+s238
+
+N/Developer/SDKs/MacOSX10.4u.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/AvailabilityMacros.h
+c000000004A1199E2000000000000506E
+t1242667490
+s20590
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/alloca.h
+c00000000463BAA5A0000000000000588
+t1178315354
+s1416
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/ctype.h
+c00000000463BAA5B0000000000002627
+t1178315355
+s9767
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/iconv.h
+c00000000462863A00000000000001298
+t1177052064
+s4760
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/inttypes.h
+c00000000463BAA5A0000000000002481
+t1178315354
+s9345
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/math.h
+c00000000462E7AF500000000000004B7
+t1177451253
+s1207
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/memory.h
+c00000000463BAA5A0000000000000B38
+t1178315354
+s2872
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/stdio.h
+c00000000463BAA5A0000000000003B7F
+t1178315354
+s15231
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/stdlib.h
+c00000000463BAA5A0000000000002647
+t1178315354
+s9799
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/string.h
+c00000000463BAA5A00000000000014D3
+t1178315354
+s5331
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/strings.h
+c00000000463BAA5A0000000000000D40
+t1178315354
+s3392
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/sys/param.h
+c0000000046F2351400000000000025D9
+t1190278420
+s9689
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/sys/types.h
+c0000000046F235160000000000002641
+t1190278422
+s9793
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/include/unistd.h
+c00000000463BAA5A0000000000004EED
+t1178315354
+s20205
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stdarg.h
+c000000004CC3D34900000000000010D9
+t1287902025
+s4313
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stddef.h
+c000000004CC3D3490000000000003193
+t1287902025
+s12691
+
+N/Developer/SDKs/MacOSX10.4u.sdk/usr/lib/gcc/i686-apple-darwin10/4.0.1/include/stdint.h
+c000000004CC3D3490000000000001BE4
+t1287902025
+s7140
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004D5A274300000000000000EE
+t1297753923
+s238
+
+N/Library/Frameworks/SDL.framework
+c000000004ADD32BD00000000000000CC
+t1256010429
+s204
+
+N/Library/Frameworks/SDL.framework/SDL
+c000000004ADD32BD0000000000156068
+t1256010429
+s1400936
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000515B1CF60000000000006560
+t1364925686
+s25952
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/English.lproj/InfoPlist.strings
+c000000004ADD24F20000000000000284
+t1256006898
+s644
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/SDLMain.h
+c000000004ADD24F20000000000000176
+t1256006898
+s374
+i<Cocoa/Cocoa.h>
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/SDLMain.m
+c000000004ADD24F20000000000002C00
+t1256006898
+s11264
+i"SDL.h"
+i"SDLMain.h"
+i<sys/param.h>
+i<unistd.h>
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app
+t1328633196
+s102
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app/Contents/Frameworks/SDL.framework
+t1328633196
+s204
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app/Contents/Info.plist
+t1328633180
+s1402
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app/Contents/MacOS/haxor
+t1328633196
+s53556
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app/Contents/PkgInfo
+t1328633180
+s8
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1328633180
+s644
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/i386/SDLMain.o
+t1328633193
+s39688
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor
+t1328633196
+s24884
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor.LinkFileList
+c000000004F31555C000000000000013F
+t1328633180
+s319
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/i386/main.o
+t1328633193
+s12856
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/SDLMain.o
+t1328633193
+s42444
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor
+t1328633194
+s22424
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor.LinkFileList
+c000000004F31555C0000000000000143
+t1328633180
+s323
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/main.o
+t1328633193
+s13624
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/haxor_Prefix.pch
+c000000004ADD24F200000000000000AF
+t1256006898
+s175
+i"SDL.h"
+i<Cocoa/Cocoa.h>
+
+N/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/main.c
+c000000004ADD24F20000000000000536
+t1256006898
+s1334
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"SDL.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL.h
+c000000004ADD32BD0000000000000CA1
+t1256010429
+s3233
+i"SDL_main.h"
+i"SDL_stdinc.h"
+i"SDL_audio.h"
+i"SDL_cdrom.h"
+i"SDL_cpuinfo.h"
+i"SDL_endian.h"
+i"SDL_error.h"
+i"SDL_events.h"
+i"SDL_loadso.h"
+i"SDL_mutex.h"
+i"SDL_rwops.h"
+i"SDL_thread.h"
+i"SDL_timer.h"
+i"SDL_video.h"
+i"SDL_version.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_active.h
+c000000004ADD32BD000000000000078D
+t1256010429
+s1933
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_audio.h
+c000000004ADD32BD0000000000002BCF
+t1256010429
+s11215
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_endian.h"
+i"SDL_mutex.h"
+i"SDL_thread.h"
+i"SDL_rwops.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_cdrom.h
+c000000004ADD32BD00000000000017A0
+t1256010429
+s6048
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_config.h
+c000000004ADD32BD00000000000005C2
+t1256010429
+s1474
+i"SDL_platform.h"
+i"SDL_config_dreamcast.h"
+i"SDL_config_macos.h"
+i"SDL_config_macosx.h"
+i"SDL_config_symbian.h"
+i"SDL_config_win32.h"
+i"SDL_config_os2.h"
+i"SDL_config_minimal.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_config_dreamcast.h
+c000000004ADD32BD0000000000000AF3
+t1256010429
+s2803
+i"SDL_platform.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_config_macos.h
+c000000004ADD32BD0000000000000AF1
+t1256010429
+s2801
+i"SDL_platform.h"
+i<MacTypes.h>
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_config_macosx.h
+c000000004ADD32BD0000000000001061
+t1256010429
+s4193
+i"SDL_platform.h"
+i<AvailabilityMacros.h>
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_config_os2.h
+c000000004ADD32BD0000000000000E33
+t1256010429
+s3635
+i"SDL_platform.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_config_win32.h
+c000000004ADD32BD00000000000011DE
+t1256010429
+s4574
+i"SDL_platform.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_cpuinfo.h
+c000000004ADD32BD00000000000008AD
+t1256010429
+s2221
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_endian.h
+c000000004ADD32BD00000000000016F1
+t1256010429
+s5873
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_error.h
+c000000004ADD32BD0000000000000752
+t1256010429
+s1874
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_events.h
+c000000004ADD32BD00000000000032F1
+t1256010429
+s13041
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_active.h"
+i"SDL_keyboard.h"
+i"SDL_mouse.h"
+i"SDL_joystick.h"
+i"SDL_quit.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_joystick.h
+c000000004ADD32BD000000000000159C
+t1256010429
+s5532
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_keyboard.h
+c000000004ADD32BD0000000000001002
+t1256010429
+s4098
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_keysym.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_keysym.h
+c000000004ADD32BD0000000000001D44
+t1256010429
+s7492
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_loadso.h
+c000000004ADD32BD0000000000000AB3
+t1256010429
+s2739
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_main.h
+c000000004ADD32BD0000000000000B32
+t1256010429
+s2866
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_mouse.h
+c000000004ADD32BD0000000000001292
+t1256010429
+s4754
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_video.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_mutex.h
+c000000004ADD32BD00000000000016E4
+t1256010429
+s5860
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_platform.h
+c000000004ADD32BD0000000000000A94
+t1256010429
+s2708
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_quit.h
+c000000004ADD32BD00000000000007D9
+t1256010429
+s2009
+i"SDL_stdinc.h"
+i"SDL_error.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_rwops.h
+c000000004ADD32BD000000000000135E
+t1256010429
+s4958
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_stdinc.h
+c000000004ADD32BD0000000000004059
+t1256010429
+s16473
+i"SDL_config.h"
+i<sys/types.h>
+i<stdio.h>
+i<stdlib.h>
+i<stddef.h>
+i<stdarg.h>
+i<stdlib.h>
+i<malloc.h>
+i<stddef.h>
+i<stdarg.h>
+i<memory.h>
+i<string.h>
+i<strings.h>
+i<inttypes.h>
+i<stdint.h>
+i<ctype.h>
+i<iconv.h>
+i"begin_code.h"
+i<alloca.h>
+i<malloc.h>
+i<malloc.h>
+i<malloc.h>
+i<stdlib.h>
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_thread.h
+c000000004ADD32BD000000000000118E
+t1256010429
+s4494
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_mutex.h"
+i"begin_code.h"
+i<process.h>
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_timer.h
+c000000004ADD32BD00000000000011AF
+t1256010429
+s4527
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_version.h
+c000000004ADD32BD0000000000000A4D
+t1256010429
+s2637
+i"SDL_stdinc.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/SDL_video.h
+c000000004ADD32BD0000000000009482
+t1256010429
+s38018
+i"SDL_stdinc.h"
+i"SDL_error.h"
+i"SDL_rwops.h"
+i"begin_code.h"
+i"close_code.h"
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/begin_code.h
+c000000004ADD32BD0000000000001408
+t1256010429
+s5128
+
+N/Users/Jurgis/Library/Frameworks/SDL.framework/Headers/close_code.h
+c000000004ADD32BD00000000000005CA
+t1256010429
+s1482
+
+N/Users/Jurgis/haxor/English.lproj/InfoPlist.strings
+c00000000523436D90000000000000210
+t1379153625
+s528
+
+N/Users/Jurgis/haxor/SDLMain.h
+c00000000523436D90000000000000176
+t1379153625
+s374
+i<Cocoa/Cocoa.h>
+
+N/Users/Jurgis/haxor/SDLMain.m
+c00000000523436D90000000000002C00
+t1379153625
+s11264
+i"SDL.h"
+i"SDLMain.h"
+i<sys/param.h>
+i<unistd.h>
+
+N/Users/Jurgis/haxor/build/Debug/haxor.app
+t1379153656
+s102
+
+N/Users/Jurgis/haxor/build/Debug/haxor.app/Contents/Frameworks/SDL.framework
+t1379153625
+s204
+
+N/Users/Jurgis/haxor/build/Debug/haxor.app/Contents/Info.plist
+t1379153626
+s1361
+
+N/Users/Jurgis/haxor/build/Debug/haxor.app/Contents/MacOS/haxor
+t1379153656
+s53304
+
+N/Users/Jurgis/haxor/build/Debug/haxor.app/Contents/PkgInfo
+t1379153626
+s8
+
+N/Users/Jurgis/haxor/build/Debug/haxor.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1379153626
+s528
+
+N/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/i386/SDLMain.o
+t1379153653
+s39592
+
+N/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor
+t1379153656
+s24632
+
+N/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor.LinkFileList
+c00000000523436E900000000000000A9
+t1379153641
+s169
+
+N/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/i386/main.o
+t1379153653
+s12756
+
+N/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/SDLMain.o
+t1379153652
+s42340
+
+N/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor
+t1379153655
+s22168
+
+N/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor.LinkFileList
+c00000000523436E900000000000000AD
+t1379153641
+s173
+
+N/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/main.o
+t1379153652
+s13520
+
+N/Users/Jurgis/haxor/haxor_Prefix.pch
+c00000000523436D900000000000000AF
+t1379153625
+s175
+i"SDL.h"
+i<Cocoa/Cocoa.h>
+
+N/Users/Jurgis/haxor/main.c
+c00000000523436DB0000000000000536
+t1379153627
+s1334
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"SDL.h"
+
+N/var/folders/pG/pGlkkhRZHkWnXSP4obKWG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-ablwscdxjofhksbiductjlxdbugp/haxor_Prefix.pch.gch
+t1328633181
+s4319664
+
+N/var/folders/pG/pGlkkhRZHkWnXSP4obKWG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-alxfccdibzboxtcrbgfcefjuzjev/haxor_Prefix.pch.gch
+t1328633191
+s2281320
+
+N/var/folders/pG/pGlkkhRZHkWnXSP4obKWG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-dbkljlcjqdlslidcbyqasvhziqqh/haxor_Prefix.pch.gch
+t1328633193
+s55052912
+
+N/var/folders/pG/pGlkkhRZHkWnXSP4obKWG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-eepuubjrqyhehhbrcltejgdsktek/haxor_Prefix.pch.gch
+t1328633191
+s30511584
+
+N/var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-aqrcswfheulrzrcrmmocbuqmgtmj/haxor_Prefix.pch.gch
+t1379153646
+s2281320
+
+N/var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-epydxwtpopmqrrhbtovhnokcmvmf/haxor_Prefix.pch.gch
+t1379153652
+s55052912
+
+N/var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-gkcrjdweqjuhaubzejmfipkumcuv/haxor_Prefix.pch.gch
+t1379153642
+s4319664
+
+N/var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-gqmadlzhnlxqfbatapmipcfafbhx/haxor_Prefix.pch.gch
+t1379153645
+s30511584
+
+NInfo.plist
+c00000000523436D90000000000000408
+t1379153625
+s1032
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies400846441#400846441#0(0"0(0#1#0"17189928960#0"0#
+
+CCompileC build/haxor.build/Debug/haxor.build/Objects-normal/i386/SDLMain.o "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/SDLMain.m" normal i386 objective-c com.apple.compilers.gcc.4_0
+s350325993.517762
+e350325993.853730
+r1
+xCompileC
+xbuild/haxor.build/Debug/haxor.build/Objects-normal/i386/SDLMain.o
+x/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/SDLMain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@88"Compile /Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/SDLMain.m350325993#350325993#0(0"0(0#0#80"/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/SDLMain.m8601380800#1702"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CCompileC build/haxor.build/Debug/haxor.build/Objects-normal/i386/SDLMain.o /Users/Jurgis/haxor/SDLMain.m normal i386 objective-c com.apple.compilers.gcc.4_0
+s400846452.803821
+e400846453.120505
+r1
+xCompileC
+xbuild/haxor.build/Debug/haxor.build/Objects-normal/i386/SDLMain.o
+x/Users/Jurgis/haxor/SDLMain.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@37"Compile /Users/Jurgis/haxor/SDLMain.m400846452#400846453#0(0"0(0#0#29"/Users/Jurgis/haxor/SDLMain.m4390719120#1118"    cd /Users/Jurgis/haxor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/haxor.hmap -F/Users/Jurgis/haxor/build/Debug -F/Users/Jurgis/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/Jurgis/haxor/build/Debug/include -I/Users/Jurgis/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources/i386 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources -include /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-gqmadlzhnlxqfbatapmipcfafbhx/haxor_Prefix.pch -c /Users/Jurgis/haxor/SDLMain.m -o /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/i386/SDLMain.o0#
+
+CCompileC build/haxor.build/Debug/haxor.build/Objects-normal/i386/main.o "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/main.c" normal i386 c com.apple.compilers.gcc.4_0
+s350325993.853844
+e350325993.977438
+r1
+xCompileC
+xbuild/haxor.build/Debug/haxor.build/Objects-normal/i386/main.o
+x/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@85"Compile /Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/main.c350325993#350325993#0(0"0(0#0#77"/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/main.c8601023136#1686"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CCompileC build/haxor.build/Debug/haxor.build/Objects-normal/i386/main.o /Users/Jurgis/haxor/main.c normal i386 c com.apple.compilers.gcc.4_0
+s400846453.120612
+e400846453.205234
+r1
+xCompileC
+xbuild/haxor.build/Debug/haxor.build/Objects-normal/i386/main.o
+x/Users/Jurgis/haxor/main.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@34"Compile /Users/Jurgis/haxor/main.c400846453#400846453#0(0"0(0#0#26"/Users/Jurgis/haxor/main.c4390719120#1102"    cd /Users/Jurgis/haxor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/haxor.hmap -F/Users/Jurgis/haxor/build/Debug -F/Users/Jurgis/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/Jurgis/haxor/build/Debug/include -I/Users/Jurgis/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources/i386 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources -include /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-aqrcswfheulrzrcrmmocbuqmgtmj/haxor_Prefix.pch -c /Users/Jurgis/haxor/main.c -o /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/i386/main.o0#
+
+CCompileC build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/SDLMain.o "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/SDLMain.m" normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s350325993.362674
+e350325993.734017
+r1
+xCompileC
+xbuild/haxor.build/Debug/haxor.build/Objects-normal/x86_64/SDLMain.o
+x/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/SDLMain.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@88"Compile /Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/SDLMain.m350325993#350325993#0(0"0(0#0#80"/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/SDLMain.m8599819712#1675"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CCompileC build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/SDLMain.o /Users/Jurgis/haxor/SDLMain.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s400846452.527567
+e400846452.942990
+r1
+xCompileC
+xbuild/haxor.build/Debug/haxor.build/Objects-normal/x86_64/SDLMain.o
+x/Users/Jurgis/haxor/SDLMain.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@37"Compile /Users/Jurgis/haxor/SDLMain.m400846452#400846452#0(0"0(0#0#29"/Users/Jurgis/haxor/SDLMain.m4390719120#1091"    cd /Users/Jurgis/haxor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/haxor.hmap -F/Users/Jurgis/haxor/build/Debug -F/Users/Jurgis/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/Jurgis/haxor/build/Debug/include -I/Users/Jurgis/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources/x86_64 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources -include /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-epydxwtpopmqrrhbtovhnokcmvmf/haxor_Prefix.pch -c /Users/Jurgis/haxor/SDLMain.m -o /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/SDLMain.o0#
+
+CCompileC build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/main.o "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/main.c" normal x86_64 c com.apple.compilers.gcc.4_2
+s350325993.364682
+e350325993.517646
+r1
+xCompileC
+xbuild/haxor.build/Debug/haxor.build/Objects-normal/x86_64/main.o
+x/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/main.c350325993#350325993#0(0"0(0#0#77"/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/main.c8601165216#1659"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CCompileC build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/main.o /Users/Jurgis/haxor/main.c normal x86_64 c com.apple.compilers.gcc.4_2
+s400846452.529122
+e400846452.803695
+r1
+xCompileC
+xbuild/haxor.build/Debug/haxor.build/Objects-normal/x86_64/main.o
+x/Users/Jurgis/haxor/main.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Compile /Users/Jurgis/haxor/main.c400846452#400846452#0(0"0(0#0#26"/Users/Jurgis/haxor/main.c4390719120#1075"    cd /Users/Jurgis/haxor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/haxor.hmap -F/Users/Jurgis/haxor/build/Debug -F/Users/Jurgis/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/Jurgis/haxor/build/Debug/include -I/Users/Jurgis/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources/x86_64 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources -include /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-gkcrjdweqjuhaubzejmfipkumcuv/haxor_Prefix.pch -c /Users/Jurgis/haxor/main.c -o /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/main.o0#
+
+CCopyStringsFile "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app/Contents/Resources/English.lproj/InfoPlist.strings" English.lproj/InfoPlist.strings
+s350325980.195543
+e350325980.454714
+r1
+xCopyStringsFile
+x/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings350325980#350325980#0(0"0(0#0#102"/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/English.lproj/InfoPlist.strings8602578816#444"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CCopyStringsFile /Users/Jurgis/haxor/build/Debug/haxor.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCreateUniversalBinary "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app/Contents/MacOS/haxor" normal "x86_64 i386"
+s350325996.429955
+e350325996.472963
+r1
+xCreateUniversalBinary
+x/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app/Contents/MacOS/haxor
+xnormal
+xx86_64 i386
+lSLF07#2@109"CreateUniversalBinary build/Debug/haxor.app/Contents/MacOS/haxor normal "x86_64 i386"350325996#350325996#0(0"0(0#0#82"/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/x86_64 i3868600258304#598"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CCreateUniversalBinary /Users/Jurgis/haxor/build/Debug/haxor.app/Contents/MacOS/haxor normal "x86_64 i386"
+s400846456.815591
+e400846456.862585
+r1
+xCreateUniversalBinary
+x/Users/Jurgis/haxor/build/Debug/haxor.app/Contents/MacOS/haxor
+xnormal
+xx86_64 i386
+lSLF07#2@85"CreateUniversalBinary build/Debug/haxor.app/Contents/MacOS/haxor normal "x86_64 i386"400846456#400846456#0(0"0(0#0#31"/Users/Jurgis/haxor/x86_64 i3864390719120#290"    cd /Users/Jurgis/haxor    /usr/bin/lipo -create /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor -output /Users/Jurgis/haxor/build/Debug/haxor.app/Contents/MacOS/haxor0#
+
+CLd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor" normal i386
+s350325993.977569
+e350325996.429676
+r1
+xLd
+x/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor
+xnormal
+xi386
+lSLF07#2@173"Link /Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor350325993#350325996#0(0"0(0#0#0"8603040864#893"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CLd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor" normal x86_64
+s350325993.734115
+e350325994.977255
+r1
+xLd
+x/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor
+xnormal
+xx86_64
+lSLF07#2@175"Link /Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor350325993#350325994#0(0"0(0#0#0"8602810944#897"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CLd /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor normal i386
+s400846453.205349
+e400846456.815483
+r1
+xLd
+x/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor
+xnormal
+xi386
+lSLF07#2@86"Link /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor400846453#400846456#0(0"0(0#0#0"4390719120#556"    cd /Users/Jurgis/haxor    setenv MACOSX_DEPLOYMENT_TARGET 10.4    /Developer/usr/bin/gcc-4.0 -arch i386 -isysroot /Developer/SDKs/MacOSX10.4u.sdk -L/Users/Jurgis/haxor/build/Debug -F/Users/Jurgis/haxor/build/Debug -F/Users/Jurgis/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -filelist /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor.LinkFileList -mmacosx-version-min=10.4 -framework SDL -framework Cocoa -o /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/i386/haxor0#
+
+CLd /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor normal x86_64
+s400846452.943137
+e400846455.356713
+r1
+xLd
+x/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor
+xnormal
+xx86_64
+lSLF07#2@88"Link /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor400846452#400846455#0(0"0(0#0#0"4390719120#560"    cd /Users/Jurgis/haxor    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/Jurgis/haxor/build/Debug -F/Users/Jurgis/haxor/build/Debug -F/Users/Jurgis/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -filelist /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor.LinkFileList -mmacosx-version-min=10.6 -framework SDL -framework Cocoa -o /Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/Objects-normal/x86_64/haxor0#
+
+CPBXCp build/Debug/haxor.app/Contents/Frameworks/SDL.framework /Library/Frameworks/SDL.framework
+s350325996.473050
+e350325996.671803
+r1
+xPBXCp
+xbuild/Debug/haxor.app/Contents/Frameworks/SDL.framework
+x/Library/Frameworks/SDL.framework
+lSLF07#2@38"Copy /Library/Frameworks/SDL.framework350325996#350325996#0(0"0(0#0#33"/Library/Frameworks/SDL.framework8599637504#403"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CProcessInfoPlistFile "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app/Contents/Info.plist" Info.plist
+s350325980.189297
+e350325980.195434
+r1
+xProcessInfoPlistFile
+x/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist350325980#350325980#0(0"0(0#0#81"/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/Info.plist7299340416536765440#424"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CProcessInfoPlistFile /Users/Jurgis/haxor/build/Debug/haxor.app/Contents/Info.plist Info.plist
+r0
+
+CProcessPCH /var/folders/pG/pGlkkhRZHkWnXSP4obKWG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-ablwscdxjofhksbiductjlxdbugp/haxor_Prefix.pch.gch haxor_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+s350325980.456242
+e350325981.140028
+r1
+xProcessPCH
+x/var/folders/pG/pGlkkhRZHkWnXSP4obKWG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-ablwscdxjofhksbiductjlxdbugp/haxor_Prefix.pch.gch
+xhaxor_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile haxor_Prefix.pch350325980#350325981#0(0"0(0#0#111"/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/haxor_Prefix.pch8603139616#1533"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CProcessPCH /var/folders/pG/pGlkkhRZHkWnXSP4obKWG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-alxfccdibzboxtcrbgfcefjuzjev/haxor_Prefix.pch.gch haxor_Prefix.pch normal i386 c com.apple.compilers.gcc.4_0
+s350325991.511677
+e350325991.896932
+r1
+xProcessPCH
+x/var/folders/pG/pGlkkhRZHkWnXSP4obKWG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-alxfccdibzboxtcrbgfcefjuzjev/haxor_Prefix.pch.gch
+xhaxor_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@51"Precompile haxor_Prefix.pch350325991#350325991#0(0"0(0#0#111"/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/haxor_Prefix.pch8601018656#1562"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CProcessPCH /var/folders/pG/pGlkkhRZHkWnXSP4obKWG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-dbkljlcjqdlslidcbyqasvhziqqh/haxor_Prefix.pch.gch haxor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s350325980.454935
+e350325993.362330
+r1
+xProcessPCH
+x/var/folders/pG/pGlkkhRZHkWnXSP4obKWG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-dbkljlcjqdlslidcbyqasvhziqqh/haxor_Prefix.pch.gch
+xhaxor_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Precompile haxor_Prefix.pch350325980#350325993#0(0"0(0#0#111"/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/haxor_Prefix.pch8603308704#1543"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CProcessPCH /var/folders/pG/pGlkkhRZHkWnXSP4obKWG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-eepuubjrqyhehhbrcltejgdsktek/haxor_Prefix.pch.gch haxor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+s350325981.140182
+e350325991.511489
+r1
+xProcessPCH
+x/var/folders/pG/pGlkkhRZHkWnXSP4obKWG++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-eepuubjrqyhehhbrcltejgdsktek/haxor_Prefix.pch.gch
+xhaxor_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@51"Precompile haxor_Prefix.pch350325981#350325991#0(0"0(0#0#111"/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/haxor_Prefix.pch8601025952#1572"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CProcessPCH /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-aqrcswfheulrzrcrmmocbuqmgtmj/haxor_Prefix.pch.gch haxor_Prefix.pch normal i386 c com.apple.compilers.gcc.4_0
+s400846445.913640
+e400846446.546819
+r1
+xProcessPCH
+x/var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-aqrcswfheulrzrcrmmocbuqmgtmj/haxor_Prefix.pch.gch
+xhaxor_Prefix.pch
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@27"Precompile haxor_Prefix.pch400846445#400846446#0(0"0(0#0#36"/Users/Jurgis/haxor/haxor_Prefix.pch4390719120#1031"    cd /Users/Jurgis/haxor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/haxor.hmap -F/Users/Jurgis/haxor/build/Debug -F/Users/Jurgis/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/Jurgis/haxor/build/Debug/include -I/Users/Jurgis/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources/i386 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources -c /Users/Jurgis/haxor/haxor_Prefix.pch -o /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-aqrcswfheulrzrcrmmocbuqmgtmj/haxor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-epydxwtpopmqrrhbtovhnokcmvmf/haxor_Prefix.pch.gch haxor_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s400846441.670820
+e400846452.527349
+r1
+xProcessPCH
+x/var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-epydxwtpopmqrrhbtovhnokcmvmf/haxor_Prefix.pch.gch
+xhaxor_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile haxor_Prefix.pch400846441#400846452#0(0"0(0#0#36"/Users/Jurgis/haxor/haxor_Prefix.pch17194752256#1012"    cd /Users/Jurgis/haxor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/haxor.hmap -F/Users/Jurgis/haxor/build/Debug -F/Users/Jurgis/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/Jurgis/haxor/build/Debug/include -I/Users/Jurgis/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources/x86_64 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources -c /Users/Jurgis/haxor/haxor_Prefix.pch -o /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-epydxwtpopmqrrhbtovhnokcmvmf/haxor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-gkcrjdweqjuhaubzejmfipkumcuv/haxor_Prefix.pch.gch haxor_Prefix.pch normal x86_64 c com.apple.compilers.gcc.4_2
+s400846441.719370
+e400846443.056087
+r1
+xProcessPCH
+x/var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-gkcrjdweqjuhaubzejmfipkumcuv/haxor_Prefix.pch.gch
+xhaxor_Prefix.pch
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile haxor_Prefix.pch400846441#400846443#0(0"0(0#0#36"/Users/Jurgis/haxor/haxor_Prefix.pch4390719120#1002"    cd /Users/Jurgis/haxor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c-header -arch x86_64 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/haxor.hmap -F/Users/Jurgis/haxor/build/Debug -F/Users/Jurgis/Library/Frameworks -F/Developer/SDKs/MacOSX10.6.sdk/Library/Frameworks -I/Users/Jurgis/haxor/build/Debug/include -I/Users/Jurgis/Library/Frameworks/SDL.framework/Headers -I/Library/Frameworks/SDL.framework/Headers -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources/x86_64 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources -c /Users/Jurgis/haxor/haxor_Prefix.pch -o /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-gkcrjdweqjuhaubzejmfipkumcuv/haxor_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-gqmadlzhnlxqfbatapmipcfafbhx/haxor_Prefix.pch.gch haxor_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_0
+s400846443.056285
+e400846445.913375
+r1
+xProcessPCH
+x/var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-gqmadlzhnlxqfbatapmipcfafbhx/haxor_Prefix.pch.gch
+xhaxor_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_0
+lSLF07#2@27"Precompile haxor_Prefix.pch400846443#400846445#0(0"0(0#0#36"/Users/Jurgis/haxor/haxor_Prefix.pch4390719120#1041"    cd /Users/Jurgis/haxor    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.0 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.4u.sdk -mfix-and-continue -mmacosx-version-min=10.4 -gdwarf-2 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/haxor.hmap -F/Users/Jurgis/haxor/build/Debug -F/Users/Jurgis/Library/Frameworks -F/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks -I/Users/Jurgis/haxor/build/Debug/include -I/Users/Jurgis/Library/Frameworks/SDL.framework/Headers -I/Developer/SDKs/MacOSX10.4u.sdk/Library/Frameworks/SDL.framework/Headers -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources/i386 -I/Users/Jurgis/haxor/build/haxor.build/Debug/haxor.build/DerivedSources -c /Users/Jurgis/haxor/haxor_Prefix.pch -o /var/folders/tm/p71hpqcn7hjcwdwv3d4xd2900000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/haxor_Prefix-gqmadlzhnlxqfbatapmipcfafbhx/haxor_Prefix.pch.gch0#
+
+CTouch "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app"
+s350325996.671980
+e350325996.675871
+r1
+xTouch
+x/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app
+lSLF07#2@110"Touch /Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application/build/Debug/haxor.app350325996#350325996#0(0"0(0#0#0"8590103392#209"    cd "/Users/Jurgis/Desktop/C++/TemplatesForXcodeSnowLeopard/SDL Application"
+
+CTouch /Users/Jurgis/haxor/build/Debug/haxor.app
+s400846456.862821
+e400846456.918011
+r1
+xTouch
+x/Users/Jurgis/haxor/build/Debug/haxor.app
+lSLF07#2@47"Touch /Users/Jurgis/haxor/build/Debug/haxor.app400846456#400846456#0(0"0(0#0#0"4390719120#91"    cd /Users/Jurgis/haxor    /usr/bin/touch -c /Users/Jurgis/haxor/build/Debug/haxor.app0#
+
